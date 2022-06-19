@@ -1,12 +1,12 @@
 # Dijkstra's Shortest Path Algorithm
-## AIM
+## AIM:
 
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
 
-## THEORY
+## THEORY:
 Dijkstra algorithm is a single-source shortest path algorithm. Here, single-source means that only one source is given, and we have to find the shortest path from the source to all the destination nodes.
 
-## DESIGN STEPS
+## DESIGN STEPS:
 
 ### STEP 1:
 Identify a location in the google map: Gudichettulu
@@ -27,7 +27,7 @@ Display the route sequence.
 ## ROUTE MAP
 ![ alt text for screen readers](./images/map.jpg "Map around my house")
 
-## PROGRAM
+## PROGRAM:
 ```
 %matplotlib inline
 import matplotlib.pyplot as plt
