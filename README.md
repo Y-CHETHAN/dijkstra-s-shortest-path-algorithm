@@ -23,8 +23,6 @@ Implement the search algorithm by passing any node and f(node) to find the Best 
 ### STEP 5: 
 Display the route sequence.
 
-<br><br><br><br><br>
-
 ## ROUTE MAP:
 ![ alt text for screen readers](./images/map.jpg "Map around my house")
 
